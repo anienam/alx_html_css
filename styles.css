@@ -21,3 +21,34 @@ aside {
   flex: 1;
   overflow-y: auto;
 }
+
+article {
+  border: 1px solid #ccc;
+  border-radius: 10px;
+}
+/* article p {
+  border-bottom: 1px solid #ccc;
+} */
+
+aside {
+  border-radius: 10px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+footer {
+  text-align: center;
+  padding: 20px 0;
+}
+
+header,
+footer {
+  background-color: #dddddd;
+  border-radius: 10px;
+}
