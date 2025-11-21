@@ -10,7 +10,6 @@ It’s a space for experimenting with HTML, CSS, and JavaScript while applying b
 ## Tech Stack
 - HTML5
 - CSS3
-- JavaScript (vanilla)
 
 ## How to Run
 1. Clone the repository:
